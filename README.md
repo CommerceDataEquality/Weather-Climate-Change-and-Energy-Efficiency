@@ -1,7 +1,6 @@
 # Weather-Climate-Change-and-Energy-Efficiency-Data-sets
 
-Weather Patterns, Climate Change and Energy Efficiency
-Datasets from the National Oceanic and Atmospheric Administration are relevant for organizations and users interested in weather patterns, as well as climate change and energy efficiency-related product development. Also relevant for energy efficiency is brand new data from the National Institute of Standards and Technology’s NetZero residential test facility.
+The below data sets are relevant for organizations and users interested in weather patterns, as well as climate change and energy efficiency-related product development. 
 
 National Weather Service (API)
 NOAA's National Weather Service provides weather forecasts, watch & warnings, advisories, and storm prediction that provides the public, government agencies, and commercial enterprises with data from the National Weather Service's digital forecast database. 
